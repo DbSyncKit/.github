@@ -6,7 +6,6 @@ DbSyncKit is a powerful library for efficient and fast data synchronization oper
 
 - **Flexibility:** DbSyncKit supports synchronization across various database providers, giving you the flexibility to work with different systems.
 - **Efficiency:** Enhance the efficiency of your data synchronization operations with DbSyncKit's optimized tools and utilities.
-- **Dependency Injection (DI):** Easily configure and set up DbSyncKit using Dependency Injection for an organized and extensible setup.
 
 ## Getting Started
 
